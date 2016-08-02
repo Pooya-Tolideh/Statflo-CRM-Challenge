@@ -1,0 +1,187 @@
+body {
+    padding: 0;
+    margin:  0;
+    background-color: #D3DCE2;
+    width: 100%;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear:   both;
+}
+
+.DashboardPage{
+    max-width: 1440px;
+    margin: 8% auto;
+    height: auto;
+}
+.DashboardMenu {
+    width:   22.5%;
+    float:   left;
+    display: flex;
+    flex-flow: column nowrap;
+    height:  600px;
+    margin:  1%;
+}
+
+.SubDashMenu {
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.AddButton {
+    display: block;
+    margin:  30px auto;
+    width:   75%;
+    height:  100px;
+    padding: 20px 0;
+    background-color: #ECEFF1;
+    text-align:  center;
+    border-radius: 10px;
+    border: 1px solid #CFD8DC;
+}
+
+.text-AddButton {
+    font-size: 0.9em;
+    color:  #757575;
+}
+
+
+
+.AddButton:hover {
+    background-color: #E3F2FD;
+}
+
+.TabHeader {
+    display: flex;
+    min-height:  80px;
+    width:   100%;
+    border-bottom: 1px solid #CFD8DC;
+    background-color: #42A5F5;
+    justify-content: flex-start;
+
+}
+
+.SubTabHeader {
+    display: flex;
+    flex-wrap: wrap;
+    width:   50%;
+    height:  auto;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:40px;
+}
+
+.TButton {
+    padding: 2px;
+    display: inline-block;
+    position: relative;
+}
+
+.TButton:hover {
+    border-bottom: 1px solid white;
+}
+
+.DashboardPanel {
+    width:   73.5%;
+    float:   right;
+    display: inline-block;
+    margin:  1%;
+    height:  600px;
+}
+
+.PanelTable-Parent {
+    display: flex;
+    justify-content: center;
+    max-width:  95%;
+    margin: 0 auto;
+    max-height: 400px;
+    overflow: scroll;
+
+}
+
+td , th {
+    width:110px;
+    text-overflow: ellipsis;
+}
+
+.Panel-Head {
+    display:  fixed;
+    max-width: 100%;
+    margin:  0 auto;
+    background-color: #ECEFF1;
+}
+.editButton {
+    min-width: 100px;
+}
+
+.Div_1 {
+    width: 50%;
+    float:left;
+    display: inline-block;
+}
+
+.Div_2 {
+    width:  50%;
+    float:right;
+    display: block;
+}
+
+.actionButton {
+margin: 12px;
+}
+
+.formLabel {
+    color:#00B0FF;
+    margin: 10 0;
+}
+
+.inlineIT {
+    display: inline-block;
+    float: left;
+    margin-right: 8px;
+}
+
+.formHeading {
+    color:#616161;
+}
+
+.formSpacing {
+    padding: 10px 0;
+    clear:both;
+}
+
+.formRow {
+    display: block;
+    clear: both;
+    width: 100%;
+    padding: 10px;
+}
+
+
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+box-sizing: border-box;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
