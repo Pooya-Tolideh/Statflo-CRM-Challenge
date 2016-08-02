@@ -9,16 +9,15 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 
-.clearfix:after {
-    content: "";
-    display: table;
-    clear:   both;
+.mainView {
+    display: block;
+    vertical-align: center;
 }
 
 .DashboardPage{
     max-width: 1440px;
-    margin: 8% auto;
-    height: auto;
+    margin: 3.5% auto;
+
 }
 .DashboardMenu {
     width:   22.5%;
@@ -27,13 +26,6 @@ html {
     flex-flow: column nowrap;
     height:  600px;
     margin:  1%;
-}
-
-.SubDashMenu {
-    position: absolute;
-    top:  50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
 
 .AddButton {

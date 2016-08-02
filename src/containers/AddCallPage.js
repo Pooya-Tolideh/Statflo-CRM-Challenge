@@ -83,7 +83,7 @@ render(){
                 style   = {{height:"auto"}}
             >
               <div>
-                  <h1 className = "formHeading">Add a New Call Log</h1>
+                  <h1 className = "formHeading">Log a New Call</h1>
               </div>
               <div className = "body-add-call">
                 <div className="Div_1">

@@ -22,7 +22,7 @@ class SnackBar extends Component {
         <div>
              <Snackbar
               open = {this.props.snackStat.id}
-              autoHideDuration = {1750}
+              autoHideDuration = {10000}
               message = {this.props.snackStat.msg}
             />
         </div>

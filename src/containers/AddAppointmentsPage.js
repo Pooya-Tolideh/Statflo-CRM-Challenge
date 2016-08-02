@@ -81,7 +81,7 @@ render(){
              style   = {{height:"auto"}}
          >
             <div>
-               <h1 className="formHeading">Add a New Appointment</h1>
+               <h1 className="formHeading">Schedule a New Appointment</h1>
             </div>
             <div className = "body-add-appt">
               <div className = "Div_1">

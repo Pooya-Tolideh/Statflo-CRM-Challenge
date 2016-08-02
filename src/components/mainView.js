@@ -43,7 +43,7 @@ const MainView = ({pageType}) => {
     }
 
     return (
-        <div>
+        <div className="mainView">
              {getView()}
         </div>
     )
