@@ -1,4 +1,4 @@
-# Statflo CRM Challenge
+# mini-CRM Challenge
 
 ###FEATURES###
 
