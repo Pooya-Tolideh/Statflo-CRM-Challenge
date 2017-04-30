@@ -1,6 +1,6 @@
 # mini-CRM Challenge
 
-## FEATURES
+### FEATURES
 
 * CRM categories: Accounts, Leads, Appointments, and Calls
 * Dashboard view
