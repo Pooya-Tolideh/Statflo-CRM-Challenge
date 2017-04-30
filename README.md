@@ -1,6 +1,6 @@
 # mini-CRM Challenge
 
-###FEATURES###
+## FEATURES
 
 * CRM categories: Accounts, Leads, Appointments, and Calls
 * Dashboard view
@@ -15,7 +15,9 @@
 * Resonsive UI for desktop screens
 * Material-UI elements
 
-NOTE: I did use version control in this project; However, due to certain complications in the Redux boilerplate repository, I had to branch out and push only the final version. 
+____
+
+NOTE: I did use version control in this project; However, due to certain complications in the Redux boilerplate repository, I had to branch out and push the final version. 
 
 ```
 	> npm install
