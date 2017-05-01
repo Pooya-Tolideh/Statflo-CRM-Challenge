@@ -3,7 +3,7 @@ module.exports = {
     './client/src/index.js'
   ],
   output: {
-    path: __dirname,
+    path: './build/client/',
     publicPath: '/',
     filename: 'bundle.js'
   },
@@ -21,7 +21,7 @@ module.exports = {
   },
   devServer: {
     historyApiFallback: true,
-    contentBase: './'
+    contentBase: './client/'
   },
   resolve: {
     extensions: ['', '.js', '.jsx']
