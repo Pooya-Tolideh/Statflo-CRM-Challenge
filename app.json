@@ -1,0 +1,5 @@
+{
+    "name": "mini-crm",
+    "description": "a small crm dashboard with a suite of features such as accounts, leads, appointments and calls",
+    "image": "heroku/nodejs" 
+}
