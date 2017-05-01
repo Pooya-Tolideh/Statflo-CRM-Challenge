@@ -2,6 +2,8 @@
 
 ### FEATURES
 
+:link: See [live demo](https://mini-crm.herokuapp.com/)
+
 * CRM categories: Accounts, Leads, Appointments, and Calls
 * Dashboard view
 * Tab menu for switching between different category lists
@@ -17,7 +19,6 @@
 
 ____
 
-NOTE: I did use version control in this project; However, due to certain complications in the Redux boilerplate repository, I had to branch out and push the final version. 
 
 ```
 	> npm install
