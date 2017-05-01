@@ -6,3 +6,4 @@ app-notes.txt
 # IntelliJ
 *.iml
 /.idea
+.DS_Store
