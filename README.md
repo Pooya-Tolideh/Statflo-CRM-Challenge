@@ -1,8 +1,10 @@
 # mini-CRM Challenge
 
-### FEATURES
-
 :link: See [live demo](https://mini-crm.herokuapp.com/)
+
+____
+
+### FEATURES
 
 * CRM categories: Accounts, Leads, Appointments, and Calls
 * Dashboard view
