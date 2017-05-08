@@ -1,9 +1,9 @@
 # mini-CRM Challenge
 
-:link: See [live demo](https://mini-crm.herokuapp.com/)
+:link: TRY [**LIVE DEMO**](https://mini-crm.herokuapp.com/)
 
 
-![](https://cloud.githubusercontent.com/assets/20567066/25818455/a3c53dee-33f8-11e7-869c-d1412f1b6105.png)
+![](https://cloud.githubusercontent.com/assets/20567066/25818694/79605bfa-33f9-11e7-8497-6c2119f47f76.jpg)
 
 
 ____
