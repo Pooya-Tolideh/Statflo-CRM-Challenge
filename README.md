@@ -3,7 +3,7 @@
 :link: See [live demo](https://mini-crm.herokuapp.com/)
 
 
-[screen shot 2017-05-08 at 2 13 04 pm](https://cloud.githubusercontent.com/assets/20567066/25818455/a3c53dee-33f8-11e7-869c-d1412f1b6105.png)
+![](https://cloud.githubusercontent.com/assets/20567066/25818455/a3c53dee-33f8-11e7-869c-d1412f1b6105.png)
 
 
 ____
